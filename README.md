@@ -2,7 +2,7 @@
 Linear Array   , Language C
 # Louis Studio
 ## a team of Mr.Rubber
-### Biog
+### Blog
 My Blog : <http://louisaeilot.blogspot.com>
 ### E-mail
 e-mail: louisaeilotd@gmail.com
