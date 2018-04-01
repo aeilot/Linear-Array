@@ -3,7 +3,7 @@
 //  Linear_Array
 //
 //  Created by Louis on 2018/3/25.
-//  Copyright © 2018年 Louis.Aeilot.D. All rights reserved.
+//  Copyright © 2018 Louis.Aeilot.D. All rights reserved.
 //
 
 //Head
